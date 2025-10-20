@@ -29,7 +29,7 @@ qual quadro na memória possuirá a página 11?
 
 ### Resultados
 Tudo foi respondido e explicado no vídeo <br>
-Link do vídeo: **[MAPEAMENTO MEMÓRIA CACHE](https://youtu.be/sTjJDHhPAME)**
+Link do vídeo: **[MAPEAMENTO MEMÓRIA CACHE](https://youtu.be/d7ZrditEWv8)**
 
 
 README.md do repositório versão sem comentários: 
